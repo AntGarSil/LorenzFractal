@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Scripts\fractal\Lorenz Fractal.js">
+    <Files>
+      <File FileName="Assets\Standard Assets\Scripts\fractal\TakeScreenshot.cs" Line="19" Column="6" />
+      <File FileName="Assets\Standard Assets\Scripts\fractal\Lorenz Fractal.js" Line="35" Column="21" />
+      <File FileName="Assets\Standard Assets\Scripts\fractal\Example.js" Line="13" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
